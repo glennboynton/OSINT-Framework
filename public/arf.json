@@ -1145,6 +1145,11 @@
         "url": "http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml"
       },
       {
+        "name": "Domain Lists and Zone Files (T)",
+        "type": "url",
+        "url": "https://domains-index.com/"
+      },
+      {
         "name": "International Domain Name Conversion Tool",
         "type": "url",
         "url": "http://mct.verisign-grs.com/"
