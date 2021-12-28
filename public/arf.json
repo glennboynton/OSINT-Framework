@@ -6424,6 +6424,11 @@
       "url": "https://exchange.xforce.ibmcloud.com/new"
     },
     {
+      "name": "REScure RSS Threat Feeds",
+      "type": "url",
+      "url": "https://rescure.fruxlabs.com/"
+    },
+    {
       "name": "Malware Information Sharing Platform",
       "type": "url",
       "url": "http://www.misp-project.org/"
